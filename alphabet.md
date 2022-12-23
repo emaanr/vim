@@ -28,7 +28,7 @@
   - [C](#c-2)
 - [D](#d)
   - [d](#d-1)
-- [dd](#dd)
+  - [dd](#dd)
   - [vd](#vd)
   - [D](#d-2)
 - [E](#e-1)
@@ -118,7 +118,7 @@
   - [zb](#zb)
   - [zz](#zz)
   - [ZZ](#zz-1)
-- [ZQ](#zq)
+  - [ZQ](#zq)
   - [Z](#z-2)
 - [Source](#source)
 
@@ -252,7 +252,7 @@
     - Deletes current like and entire line above or below.
 - Very similar to `c` with the distinction that `c` leaves you in `Insert Mode` and `d` leaves you in `Command/Normal Mode`.
 
-# dd
+## dd
 
 - Lowercase `dd` deletes entirety of the current line regardless of where you are in the line and leaves you in `Command/Normal Mode`.
 
@@ -641,7 +641,7 @@
 
 - Shift `ZZ` is an alias for `:wq`.
 
-# ZQ
+## ZQ
 
 - Shift `ZQ` is an alias for `:q!`.
 
