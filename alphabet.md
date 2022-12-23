@@ -149,6 +149,7 @@
 ## :wq
 
 - `:wq` to "write" and "quit".
+- `ZZ` is the same as `:wq`.
 
 ## :x
 
@@ -433,15 +434,15 @@
 
 ## /
 
-- Forward slash `/` followed by the text you are searching for.
+- Forwardslash `/` followed by the text you are searching for.
 
 ## n
 
-- Once a search has been designated by forward slash `/`, use `n` to continue looking for other instances of that designation in the forwards direction.
+- Once a search has been designated by forwardslash `/`, use `n` to continue looking for other instances of that designation in the forwards direction.
 
 ## N
 
-- Once a search has been designated by forward slash `/`, use shift `N` to continue looking for other instances of that designation in the forwards direction.
+- Once a search has been designated by forwardslash `/`, use shift `N` to continue looking for other instances of that designation in the forwards direction.
 
 # O
 
