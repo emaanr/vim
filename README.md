@@ -1,6 +1,6 @@
 # Vim
 
-    Repository for Learning Vim.
+    Repository for learning Vim.
 
 # Table of Contents
 
